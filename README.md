@@ -3,7 +3,7 @@
 the X-Factor and also it's an Ed Sheeran's album that's called X as well)
 </hr>
 
-<p>🚀 I'm a Padawan iOS developer.</p>
+<h3>🚀 I'm a Padawan iOS developer.</h3>
 
 <p>💪🏼 I am currently studying to continue being so: Swift.
 

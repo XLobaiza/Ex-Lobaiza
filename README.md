@@ -1,6 +1,6 @@
 <h1>Hi! 👋🏼 I'm Exequiel </h1> 
-(But the people call me X, like X-box, X-games, 
-the X-Factor and also it's an Ed Sheeran's album that's called X as well)
+<p>(But the people call me X, like X-box, X-games, </p>
+<p>the X-Factor and also it's an Ed Sheeran's album that's called X as well)</p>
 <br><br>
 
 <h3>🚀 I'm a Padawan iOS developer.</h3>

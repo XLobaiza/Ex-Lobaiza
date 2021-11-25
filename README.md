@@ -5,7 +5,7 @@ the X-Factor and also it's an Ed Sheeran's album that's called X as well)
 
 <h3>🚀 I'm a Padawan iOS developer.</h3>
 
-<p>💪🏼 I am currently studying to continue being so: Swift.
+<p>💪🏼 I am currently studying to continue being: SwiftUI.
 
 <p>✨ I'm a design and user experience lover, that's why I'm always focusing on making usable, 
 inclusive and accessible developments accessible to everyone. </p>

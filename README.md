@@ -20,5 +20,5 @@
 <br>
 
 <p>🦄 In my free time, besides learning and take all the courses I can📖 . I like to spend some time cooking recipes 👨‍🍳,</p>
-<p>playing guitar 🎸, and playing with (one of the vest invention of the new technology) my Nintendo Switch 🎮</p>
+<p>playing guitar 🎸, and playing with (one of the best invention of the new technology) my Nintendo Switch 🎮</p>
 </hr>

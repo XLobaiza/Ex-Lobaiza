@@ -8,7 +8,7 @@
 <p>💪🏼 I am currently studying to continue being: SwiftUI.
 
 <p>✨ I'm a design and user experience lover, that's why I'm always focusing on making usable,</p>
-<p>inclusive and accessible developments accessible to everyone. </p>
+<p>inclusive and accessible developments to everyone. </p>
 <br>
 
 <p>🔍 I'm also know about other languages and tools as:</p>

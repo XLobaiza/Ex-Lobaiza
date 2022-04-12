@@ -2,7 +2,7 @@
 <p>(But the people call me X, like X-box, X-games or </p>
 <p>the X-Factor and also it's an Ed Sheeran's album that's called X as well)</p>
 
-<h3>🚀 I'm a Padawan iOS developer.</h3>
+<h3>🚀 I'm a Jr iOS developer.</h3>
 <br>
 
 <p>💪🏼 I am currently studying to continue being: SwiftUI.

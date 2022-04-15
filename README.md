@@ -2,10 +2,8 @@
 <p>(But the people call me X, like X-box, X-games or </p>
 <p>the X-Factor and also it's an Ed Sheeran's album that's called X as well)</p>
 
-<h3>🚀 I'm a Jr iOS developer.</h3>
-<br>
 
-<p>💪🏼 I am currently studying to continue being: SwiftUI.
+<p>💪🏼 I am currently studying: SwiftUI.
 
 <p>✨ I'm a design and user experience lover, that's why I'm always focusing on making usable,</p>
 <p>inclusive and accessible developments to everyone. </p>

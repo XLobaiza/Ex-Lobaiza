@@ -5,7 +5,7 @@
 <br>
 <p>💪🏼 I am currently studying: SwiftUI.
 <br>
-
+<br>
 <p>✨ I'm a design and user experience lover, that's why I'm always focusing on making usable,</p>
 <p>inclusive and accessible developments to everyone. </p>
 <br>
